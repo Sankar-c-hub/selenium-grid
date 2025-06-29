@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+    <URL>https://the-internet.herokuapp.com/dynamic_controls</URL>
+    <BrowserType>Chrome</BrowserType>
+    <PageLoadTime>30</PageLoadTime>
+    <Grid>http://localhost:4444/wd/hub</Grid>
+    <EnableSoftassertion>False</EnableSoftassertion>
+    <EnableEachStepScreenshot>False</EnableEachStepScreenshot>
+</ApplicationSettings>
