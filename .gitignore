@@ -1,1 +1,23 @@
+# Maven build output
 /target/
+
+# Eclipse project files (you have .classpath, .project, .settings)
+/.classpath
+/.project
+/.settings/
+
+# Test/HTML Reports - typically generated during test runs
+/Reports/
+/ExtentReports/
+
+# OS-specific system files
+.DS_Store
+Thumbs.db
+
+# Log files (if any)
+*.log
+
+# IDE/editor temporary/backup files
+*~
+*.swp
+*.bak
